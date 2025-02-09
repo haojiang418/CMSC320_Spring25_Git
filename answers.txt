@@ -1,0 +1,3 @@
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Data science can be applied to any field that involves any sort of data. For example, data science could be applied to cybersecurity, in which data scientists have to be able to quickly detect anomalies and threats through collected data and logs.
